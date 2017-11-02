@@ -1,0 +1,8 @@
+this is a new file;
+it is now!
+<<<<<<< HEAD
+master file is a mom!
+=======
+branch file is bus;
+>>>>>>> newb
+your conflict!
